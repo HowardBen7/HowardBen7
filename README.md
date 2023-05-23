@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning with https://skills.github.com/
+📫 How to reach me: benhoward95@hotmail.co.uk
+
 <!--
 **HowardBen7/HowardBen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
